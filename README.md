@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hi%20there!%20I'm%20Bibisha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### 💻 CSIT Student | Full Stack Developer
+### 💻 CSIT Student | 
 Turning ideas into interactive web applications 🌟
 
 </div>
